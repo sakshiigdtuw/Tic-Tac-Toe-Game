@@ -1,2 +1,2 @@
-tic tac toe game using html css js.
-![alt text](image.png)
+tic tac toe game using Tech stack: HTML5 , CSS3 , JAVASCRIPT.
+
